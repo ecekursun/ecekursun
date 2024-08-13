@@ -24,6 +24,7 @@ Hello, I'm Ece <br/>
 <h2>📊 GitHub Stats:</h2>
 
 <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecekursun&layout=compact&theme=radical" alt="Most Used Languages"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ecekursun&show_icons=true&theme=radical" alt="Ece's GitHub stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecekursun&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=ecekursun&theme=radical" alt="GitHub Streak"/>
 </p>
