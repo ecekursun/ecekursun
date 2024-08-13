@@ -8,9 +8,9 @@ Hello, I'm Ece <br/>
   📫 Contact Me: <sub><a href="eekursun14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   <a href="https://www.linkedin.com/in/ece-kursun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></sub>
 
-<h2 align="center"> 💻 Tech Stack:</h2>
+<h2> 💻 Tech Stack:</h2>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=uikit&logoColor=white" alt="UIKit"/>
@@ -21,9 +21,9 @@ Hello, I'm Ece <br/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2>📊 GitHub Stats:</h2>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ecekursun&show_icons=true&theme=radical" alt="Ece's GitHub stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecekursun&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
