@@ -1,12 +1,11 @@
 ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=ecekursun&color=blue)
-## About Me:
+<h1 align="center"> Hello, I'm Ece </h1>
 
-
-Hello, I'm Ece <br/>
-🎓I'm computer engineer also I try to be a mobile developer. <br/>
+<p>🎓I'm computer engineer also I try to be a mobile application developer. <br/>
  🌱 I’m currently learning Swift<br/>
   📫 Contact Me: <sub><a href="eekursun14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   <a href="https://www.linkedin.com/in/ece-kursun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></sub>
+</p>
 
 <h2> 💻 Tech Stack:</h2>
 
@@ -23,8 +22,7 @@ Hello, I'm Ece <br/>
 
 <h2>📊 GitHub Stats:</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecekursun&layout=compact&theme=radical" alt="Most Used Languages"/><br/>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ecekursun&show_icons=true&theme=radical" alt="Ece's GitHub stats"/><br/>
   <img src="https://streak-stats.demolab.com/?user=ecekursun&theme=radical" alt="GitHub Streak"/>
 </p>
